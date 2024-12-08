@@ -1,9 +1,10 @@
-# github source
-https://github.com/lukas-blecher/LaTeX-OCR 
+# Formula recognition software ([LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR ))
 
-# install and use
+# Install and use
 ```
+// Install
 pip install "pix2tex[gui]"
 
+// Use
 pix2tex_gui
 ```
