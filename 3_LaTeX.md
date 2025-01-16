@@ -11,3 +11,5 @@ pix2tex_gui
 
 # [NativeOverleaf](https://github.com/fjwillemsen/NativeOverleaf/releases)
 
+# Latex in PPT
+[LguanaTeX](https://github.com/Jonathan-LeRoux/IguanaTex)
