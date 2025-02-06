@@ -1,3 +1,8 @@
+# information of the HPC
+```
+scontrol show node
+```
+
 # ffmpeg
 
 [ffmpegInstall.sh](ffmpegInstall.sh)

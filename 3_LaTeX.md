@@ -13,3 +13,13 @@ pix2tex_gui
 
 # Latex in PPT
 [LguanaTeX](https://github.com/Jonathan-LeRoux/IguanaTex)
+
+# Convert PDF to markdown ([marker](https://github.com/VikParuchuri/marker))
+## Install and Use
+```
+// Install
+pip install marker-pdf
+
+// Use
+marker_single /path/to/file.pdf
+```

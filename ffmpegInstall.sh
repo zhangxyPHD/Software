@@ -2,10 +2,10 @@
 
 wget https://johnvansickle.com/ffmpeg/release-source/ffmpeg-4.1.tar.xz
 
-xz -d ffmpeg-4.1.tar.xz
+xz -d --disable-x86asm ffmpeg-4.1.tar.xz 
 tar -xf ffmpeg-4.1.tar
 cd ffmpeg-4.1/
-./configure --enable-shared --prefix=$HOME/ffmpeg/
+./configure --disable-x86asm --enable-shared --prefix=$HOME/ffmpeg/
 make
 make install
 echo "export PATH=\"\$PATH:$HOME/ffmpeg/bin\"" >> "$HOME/.bashrc"
