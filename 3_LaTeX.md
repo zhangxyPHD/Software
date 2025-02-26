@@ -23,3 +23,7 @@ pip install marker-pdf
 // Use
 marker_single /path/to/file.pdf
 ```
+
+# lguanaTeX for PPT
+
+https://www.jonathanleroux.org/software/iguanatex/
