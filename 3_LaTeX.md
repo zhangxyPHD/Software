@@ -27,3 +27,6 @@ marker_single /path/to/file.pdf
 # lguanaTeX for PPT
 
 https://www.jonathanleroux.org/software/iguanatex/
+
+# TeXsword for WORD
+https://sourceforge.net/projects/texsword/
