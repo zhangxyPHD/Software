@@ -48,3 +48,8 @@ ps -u $USER
 //杀掉进程
 pkill -9 -u $USER
 ```
+
+
+# find files and delete
+[find file](find_files.sh)
+[delete file](delete_files.sh)
