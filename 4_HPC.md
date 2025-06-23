@@ -53,3 +53,7 @@ pkill -9 -u $USER
 # find files and delete
 [find file](find_files.sh)
 [delete file](delete_files.sh)
+
+# find files and delete
+[local_scan](local_scan.py)
+[clean_supercomputer](clean_supercomputer.py)
