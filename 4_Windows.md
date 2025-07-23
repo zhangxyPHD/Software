@@ -1,4 +1,4 @@
-# activate windows
+# Activate windows
 https://github.com/TGSAN/CMWTAT_Digital_Edition/issues/81
 
 ```
@@ -10,3 +10,6 @@ irm https://get.activated.win | iex
 
 # pdf to DOC or markdown
 [MinerU](https://github.com/opendatalab/MinerU)
+
+# PixPin 
+https://pixpin.cn/ 
