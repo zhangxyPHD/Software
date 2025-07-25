@@ -13,3 +13,6 @@ irm https://get.activated.win | iex
 
 # PixPin 
 https://pixpin.cn/ 
+
+# PPT tips
+video: wmv files
