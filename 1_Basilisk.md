@@ -2,7 +2,11 @@
 
 [Install basilisk script](1.1_Install_Basilisk.sh)
 
+# Rules
+save all dump file in intermediate.
 
+# convet to vtu file
+[output_vut](basilisk_files\output_vtu_foreach.h)
 # Some tips
 
 ## restore and dump function
