@@ -30,3 +30,11 @@ https://www.jonathanleroux.org/software/iguanatex/
 
 # TeXsword for WORD
 https://sourceforge.net/projects/texsword/
+
+
+# pandoc
+
+conda install -c conda-forge pandoc
+
+pandoc main.tex --bibliography=main.bib --citeproc -o output.docx
+
