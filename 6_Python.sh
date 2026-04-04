@@ -17,3 +17,6 @@ conda install numpy pandas matplotlib -y
 
 # 验证安装
 python -c "import numpy, pandas, matplotlib; print('所有包安装成功！')"
+
+# code suggestion
+

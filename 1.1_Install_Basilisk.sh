@@ -36,3 +36,12 @@ echo "Installation complete. Basilisk is ready to use."
 
 sudo apt install -y texlive-full
 
+
+
+# MacOS
+
+https://basilisk.fr/sandbox/INSTALL_MACOS#testing-your-installation
+
+```
+CC99='mpicc -std=c99' qcc -Wall -O2 -D_DARWIN_C_SOURCE -D_MPI=1 -disable-dimensions bounce.c -o bounce -lm
+```
