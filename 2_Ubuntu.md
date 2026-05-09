@@ -51,3 +51,5 @@ source ~/.local/share/blesh/ble.sh
 source ~/.bashrc
 
 ```
+# Stacer
+https://github.com/oguzhaninan/Stacer/releases

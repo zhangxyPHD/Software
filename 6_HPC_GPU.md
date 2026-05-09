@@ -25,7 +25,8 @@ conda activate torch
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 4. 安装其他依赖
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy pandas matplotlib scikit-learn optune
+conda install -c conda-forge optuna
 ```
 
 # Bash script

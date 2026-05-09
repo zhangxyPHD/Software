@@ -37,4 +37,7 @@ https://sourceforge.net/projects/texsword/
 conda install -c conda-forge pandoc
 
 pandoc main.tex --bibliography=main.bib --citeproc -o output.docx
+pandoc response.tex --bibliography=response.bib --citeproc -o response.docx
+pandoc supplement.tex --bibliography=supplement.bib --citeproc -o supplement.docx
+pandoc main.tex --bibliography=main.bib --citeproc -o main.docx
 
