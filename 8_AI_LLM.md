@@ -6,3 +6,11 @@ https://github.com/microsoft/markitdown
 
 # AutoFigure-Edit
 https://github.com/ResearAI/AutoFigure-Edit
+
+# figure to editable ppt
+https://codia.ai/noteslide
+
+
+# skills
+## image-to-editable-ppt-skill
+https://github.com/ningzimu/image-to-editable-ppt-skill 
